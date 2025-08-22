@@ -24,6 +24,6 @@ Nosso aplicativo tem como objetivo informar os usuários de como cuidar da deter
 -  dicas reais de jardinagem (base de dados com cuidados de plantas reais).
 -  gameficação (pontos de experiencia por ter cuidado das plantas e conquistas)
 
-- Protótipo -
+*Protótipo*
 
 link do figma: https://www.figma.com/proto/SQNcrhF8lrrfIynC3Hf9rc/Sem-t%C3%ADtulo?node-id=12-176&starting-point-node-id=1%3A2&t=TQJgJyMY47FksUl0-1
