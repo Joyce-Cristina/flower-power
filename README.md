@@ -7,7 +7,8 @@ Nosso aplicativo tem como objetivo informar os usuários de como cuidar da deter
 - Ana Laura;
 - Camila;
 - Guilherme Pereira;
-- Joyce.
+- Joyce;
+- Vinicius Ramalho.
 
 📐 *Requisito não funcional* 
 
